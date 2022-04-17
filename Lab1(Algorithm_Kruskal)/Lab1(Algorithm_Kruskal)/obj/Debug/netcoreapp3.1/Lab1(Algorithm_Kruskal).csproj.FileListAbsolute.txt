@@ -1,0 +1,13 @@
+D:\Політех\4.2\Каркульовський + Кривий\Lab1(Algorithm_Kruskal)\Lab1(Algorithm_Kruskal)\bin\Debug\netcoreapp3.1\Lab1(Algorithm_Kruskal).exe
+D:\Політех\4.2\Каркульовський + Кривий\Lab1(Algorithm_Kruskal)\Lab1(Algorithm_Kruskal)\bin\Debug\netcoreapp3.1\Lab1(Algorithm_Kruskal).deps.json
+D:\Політех\4.2\Каркульовський + Кривий\Lab1(Algorithm_Kruskal)\Lab1(Algorithm_Kruskal)\bin\Debug\netcoreapp3.1\Lab1(Algorithm_Kruskal).runtimeconfig.json
+D:\Політех\4.2\Каркульовський + Кривий\Lab1(Algorithm_Kruskal)\Lab1(Algorithm_Kruskal)\bin\Debug\netcoreapp3.1\Lab1(Algorithm_Kruskal).runtimeconfig.dev.json
+D:\Політех\4.2\Каркульовський + Кривий\Lab1(Algorithm_Kruskal)\Lab1(Algorithm_Kruskal)\bin\Debug\netcoreapp3.1\Lab1(Algorithm_Kruskal).dll
+D:\Політех\4.2\Каркульовський + Кривий\Lab1(Algorithm_Kruskal)\Lab1(Algorithm_Kruskal)\bin\Debug\netcoreapp3.1\Lab1(Algorithm_Kruskal).pdb
+D:\Політех\4.2\Каркульовський + Кривий\Lab1(Algorithm_Kruskal)\Lab1(Algorithm_Kruskal)\obj\Debug\netcoreapp3.1\Lab1(Algorithm_Kruskal).csprojAssemblyReference.cache
+D:\Політех\4.2\Каркульовський + Кривий\Lab1(Algorithm_Kruskal)\Lab1(Algorithm_Kruskal)\obj\Debug\netcoreapp3.1\Lab1(Algorithm_Kruskal).AssemblyInfoInputs.cache
+D:\Політех\4.2\Каркульовський + Кривий\Lab1(Algorithm_Kruskal)\Lab1(Algorithm_Kruskal)\obj\Debug\netcoreapp3.1\Lab1(Algorithm_Kruskal).AssemblyInfo.cs
+D:\Політех\4.2\Каркульовський + Кривий\Lab1(Algorithm_Kruskal)\Lab1(Algorithm_Kruskal)\obj\Debug\netcoreapp3.1\Lab1(Algorithm_Kruskal).csproj.CoreCompileInputs.cache
+D:\Політех\4.2\Каркульовський + Кривий\Lab1(Algorithm_Kruskal)\Lab1(Algorithm_Kruskal)\obj\Debug\netcoreapp3.1\Lab1(Algorithm_Kruskal).dll
+D:\Політех\4.2\Каркульовський + Кривий\Lab1(Algorithm_Kruskal)\Lab1(Algorithm_Kruskal)\obj\Debug\netcoreapp3.1\Lab1(Algorithm_Kruskal).pdb
+D:\Політех\4.2\Каркульовський + Кривий\Lab1(Algorithm_Kruskal)\Lab1(Algorithm_Kruskal)\obj\Debug\netcoreapp3.1\Lab1(Algorithm_Kruskal).genruntimeconfig.cache
