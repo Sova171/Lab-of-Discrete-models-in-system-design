@@ -1,0 +1,13 @@
+D:\Політех\4.2\Кривий\Lab2(PostmanTask)\Lab2(PostmanTask)\bin\Debug\netcoreapp3.1\Lab2(PostmanTask).exe
+D:\Політех\4.2\Кривий\Lab2(PostmanTask)\Lab2(PostmanTask)\bin\Debug\netcoreapp3.1\Lab2(PostmanTask).deps.json
+D:\Політех\4.2\Кривий\Lab2(PostmanTask)\Lab2(PostmanTask)\bin\Debug\netcoreapp3.1\Lab2(PostmanTask).runtimeconfig.json
+D:\Політех\4.2\Кривий\Lab2(PostmanTask)\Lab2(PostmanTask)\bin\Debug\netcoreapp3.1\Lab2(PostmanTask).runtimeconfig.dev.json
+D:\Політех\4.2\Кривий\Lab2(PostmanTask)\Lab2(PostmanTask)\bin\Debug\netcoreapp3.1\Lab2(PostmanTask).dll
+D:\Політех\4.2\Кривий\Lab2(PostmanTask)\Lab2(PostmanTask)\bin\Debug\netcoreapp3.1\Lab2(PostmanTask).pdb
+D:\Політех\4.2\Кривий\Lab2(PostmanTask)\Lab2(PostmanTask)\obj\Debug\netcoreapp3.1\Lab2(PostmanTask).csprojAssemblyReference.cache
+D:\Політех\4.2\Кривий\Lab2(PostmanTask)\Lab2(PostmanTask)\obj\Debug\netcoreapp3.1\Lab2(PostmanTask).AssemblyInfoInputs.cache
+D:\Політех\4.2\Кривий\Lab2(PostmanTask)\Lab2(PostmanTask)\obj\Debug\netcoreapp3.1\Lab2(PostmanTask).AssemblyInfo.cs
+D:\Політех\4.2\Кривий\Lab2(PostmanTask)\Lab2(PostmanTask)\obj\Debug\netcoreapp3.1\Lab2(PostmanTask).csproj.CoreCompileInputs.cache
+D:\Політех\4.2\Кривий\Lab2(PostmanTask)\Lab2(PostmanTask)\obj\Debug\netcoreapp3.1\Lab2(PostmanTask).dll
+D:\Політех\4.2\Кривий\Lab2(PostmanTask)\Lab2(PostmanTask)\obj\Debug\netcoreapp3.1\Lab2(PostmanTask).pdb
+D:\Політех\4.2\Кривий\Lab2(PostmanTask)\Lab2(PostmanTask)\obj\Debug\netcoreapp3.1\Lab2(PostmanTask).genruntimeconfig.cache
