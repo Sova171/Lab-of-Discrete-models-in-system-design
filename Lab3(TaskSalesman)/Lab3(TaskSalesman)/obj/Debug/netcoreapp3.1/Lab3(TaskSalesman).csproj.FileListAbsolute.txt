@@ -1,0 +1,13 @@
+D:\Політех\4.2\Кривий\Lab3(TaskSalesman)\Lab3(TaskSalesman)\bin\Debug\netcoreapp3.1\Lab3(TaskSalesman).exe
+D:\Політех\4.2\Кривий\Lab3(TaskSalesman)\Lab3(TaskSalesman)\bin\Debug\netcoreapp3.1\Lab3(TaskSalesman).deps.json
+D:\Політех\4.2\Кривий\Lab3(TaskSalesman)\Lab3(TaskSalesman)\bin\Debug\netcoreapp3.1\Lab3(TaskSalesman).runtimeconfig.json
+D:\Політех\4.2\Кривий\Lab3(TaskSalesman)\Lab3(TaskSalesman)\bin\Debug\netcoreapp3.1\Lab3(TaskSalesman).runtimeconfig.dev.json
+D:\Політех\4.2\Кривий\Lab3(TaskSalesman)\Lab3(TaskSalesman)\bin\Debug\netcoreapp3.1\Lab3(TaskSalesman).dll
+D:\Політех\4.2\Кривий\Lab3(TaskSalesman)\Lab3(TaskSalesman)\bin\Debug\netcoreapp3.1\Lab3(TaskSalesman).pdb
+D:\Політех\4.2\Кривий\Lab3(TaskSalesman)\Lab3(TaskSalesman)\obj\Debug\netcoreapp3.1\Lab3(TaskSalesman).csprojAssemblyReference.cache
+D:\Політех\4.2\Кривий\Lab3(TaskSalesman)\Lab3(TaskSalesman)\obj\Debug\netcoreapp3.1\Lab3(TaskSalesman).AssemblyInfoInputs.cache
+D:\Політех\4.2\Кривий\Lab3(TaskSalesman)\Lab3(TaskSalesman)\obj\Debug\netcoreapp3.1\Lab3(TaskSalesman).AssemblyInfo.cs
+D:\Політех\4.2\Кривий\Lab3(TaskSalesman)\Lab3(TaskSalesman)\obj\Debug\netcoreapp3.1\Lab3(TaskSalesman).csproj.CoreCompileInputs.cache
+D:\Політех\4.2\Кривий\Lab3(TaskSalesman)\Lab3(TaskSalesman)\obj\Debug\netcoreapp3.1\Lab3(TaskSalesman).dll
+D:\Політех\4.2\Кривий\Lab3(TaskSalesman)\Lab3(TaskSalesman)\obj\Debug\netcoreapp3.1\Lab3(TaskSalesman).pdb
+D:\Політех\4.2\Кривий\Lab3(TaskSalesman)\Lab3(TaskSalesman)\obj\Debug\netcoreapp3.1\Lab3(TaskSalesman).genruntimeconfig.cache
