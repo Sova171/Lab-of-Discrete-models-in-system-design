@@ -1,0 +1,13 @@
+D:\Політех\4.2\Кривий\Lab4(Algorithm_FordFalkerson)\Lab4(Algorithm_FordFalkerson)\bin\Debug\netcoreapp3.1\Lab4(Algorithm_FordFalkerson).exe
+D:\Політех\4.2\Кривий\Lab4(Algorithm_FordFalkerson)\Lab4(Algorithm_FordFalkerson)\bin\Debug\netcoreapp3.1\Lab4(Algorithm_FordFalkerson).deps.json
+D:\Політех\4.2\Кривий\Lab4(Algorithm_FordFalkerson)\Lab4(Algorithm_FordFalkerson)\bin\Debug\netcoreapp3.1\Lab4(Algorithm_FordFalkerson).runtimeconfig.json
+D:\Політех\4.2\Кривий\Lab4(Algorithm_FordFalkerson)\Lab4(Algorithm_FordFalkerson)\bin\Debug\netcoreapp3.1\Lab4(Algorithm_FordFalkerson).runtimeconfig.dev.json
+D:\Політех\4.2\Кривий\Lab4(Algorithm_FordFalkerson)\Lab4(Algorithm_FordFalkerson)\bin\Debug\netcoreapp3.1\Lab4(Algorithm_FordFalkerson).dll
+D:\Політех\4.2\Кривий\Lab4(Algorithm_FordFalkerson)\Lab4(Algorithm_FordFalkerson)\bin\Debug\netcoreapp3.1\Lab4(Algorithm_FordFalkerson).pdb
+D:\Політех\4.2\Кривий\Lab4(Algorithm_FordFalkerson)\Lab4(Algorithm_FordFalkerson)\obj\Debug\netcoreapp3.1\Lab4(Algorithm_FordFalkerson).csprojAssemblyReference.cache
+D:\Політех\4.2\Кривий\Lab4(Algorithm_FordFalkerson)\Lab4(Algorithm_FordFalkerson)\obj\Debug\netcoreapp3.1\Lab4(Algorithm_FordFalkerson).AssemblyInfoInputs.cache
+D:\Політех\4.2\Кривий\Lab4(Algorithm_FordFalkerson)\Lab4(Algorithm_FordFalkerson)\obj\Debug\netcoreapp3.1\Lab4(Algorithm_FordFalkerson).AssemblyInfo.cs
+D:\Політех\4.2\Кривий\Lab4(Algorithm_FordFalkerson)\Lab4(Algorithm_FordFalkerson)\obj\Debug\netcoreapp3.1\Lab4(Algorithm_FordFalkerson).csproj.CoreCompileInputs.cache
+D:\Політех\4.2\Кривий\Lab4(Algorithm_FordFalkerson)\Lab4(Algorithm_FordFalkerson)\obj\Debug\netcoreapp3.1\Lab4(Algorithm_FordFalkerson).dll
+D:\Політех\4.2\Кривий\Lab4(Algorithm_FordFalkerson)\Lab4(Algorithm_FordFalkerson)\obj\Debug\netcoreapp3.1\Lab4(Algorithm_FordFalkerson).pdb
+D:\Політех\4.2\Кривий\Lab4(Algorithm_FordFalkerson)\Lab4(Algorithm_FordFalkerson)\obj\Debug\netcoreapp3.1\Lab4(Algorithm_FordFalkerson).genruntimeconfig.cache
