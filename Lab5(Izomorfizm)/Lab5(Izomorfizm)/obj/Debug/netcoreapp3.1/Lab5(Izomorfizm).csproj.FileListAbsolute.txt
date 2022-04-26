@@ -1,0 +1,13 @@
+D:\Політех\4.2\Кривий\Lab5(Izomorfizm)\Lab5(Izomorfizm)\bin\Debug\netcoreapp3.1\Lab5(Izomorfizm).exe
+D:\Політех\4.2\Кривий\Lab5(Izomorfizm)\Lab5(Izomorfizm)\bin\Debug\netcoreapp3.1\Lab5(Izomorfizm).deps.json
+D:\Політех\4.2\Кривий\Lab5(Izomorfizm)\Lab5(Izomorfizm)\bin\Debug\netcoreapp3.1\Lab5(Izomorfizm).runtimeconfig.json
+D:\Політех\4.2\Кривий\Lab5(Izomorfizm)\Lab5(Izomorfizm)\bin\Debug\netcoreapp3.1\Lab5(Izomorfizm).runtimeconfig.dev.json
+D:\Політех\4.2\Кривий\Lab5(Izomorfizm)\Lab5(Izomorfizm)\bin\Debug\netcoreapp3.1\Lab5(Izomorfizm).dll
+D:\Політех\4.2\Кривий\Lab5(Izomorfizm)\Lab5(Izomorfizm)\bin\Debug\netcoreapp3.1\Lab5(Izomorfizm).pdb
+D:\Політех\4.2\Кривий\Lab5(Izomorfizm)\Lab5(Izomorfizm)\obj\Debug\netcoreapp3.1\Lab5(Izomorfizm).csprojAssemblyReference.cache
+D:\Політех\4.2\Кривий\Lab5(Izomorfizm)\Lab5(Izomorfizm)\obj\Debug\netcoreapp3.1\Lab5(Izomorfizm).AssemblyInfoInputs.cache
+D:\Політех\4.2\Кривий\Lab5(Izomorfizm)\Lab5(Izomorfizm)\obj\Debug\netcoreapp3.1\Lab5(Izomorfizm).AssemblyInfo.cs
+D:\Політех\4.2\Кривий\Lab5(Izomorfizm)\Lab5(Izomorfizm)\obj\Debug\netcoreapp3.1\Lab5(Izomorfizm).csproj.CoreCompileInputs.cache
+D:\Політех\4.2\Кривий\Lab5(Izomorfizm)\Lab5(Izomorfizm)\obj\Debug\netcoreapp3.1\Lab5(Izomorfizm).dll
+D:\Політех\4.2\Кривий\Lab5(Izomorfizm)\Lab5(Izomorfizm)\obj\Debug\netcoreapp3.1\Lab5(Izomorfizm).pdb
+D:\Політех\4.2\Кривий\Lab5(Izomorfizm)\Lab5(Izomorfizm)\obj\Debug\netcoreapp3.1\Lab5(Izomorfizm).genruntimeconfig.cache
